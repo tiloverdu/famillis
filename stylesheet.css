@@ -1,1 +1,49 @@
 
+#Space01{
+    height: 220px;
+    width: auto;    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:over{
+    color:#00FFB1;
+}
+
+#logoimg {
+    height: 50px;
+    width: 50px;
+    border-radius: 26px;
+}
+
+.title {
+    color:#00FFB1;
+}
+
+h1{
+    text-align: center;
+    font-family: verdana, Serif, sans-serif;
+    font-size: 30px;
+    color: white;
+    margin: auto;    
+}
+
+#provisoire{
+    font-family: verdana;
+    font-style: italic;
+    font-size: 20px;
+    color: white;
+}
+
+
+
+html{
+    background-color: black;
+    background-image: url(https://lh4.googleusercontent.com/-4zVan7B0oBE/Vvz8BG0UX7I/AAAAAAAAABw/KWGYbuUQRTULWOBehli3DKNBaWQMLiM2Q/w1118-h629-no/Famillis_banner.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
